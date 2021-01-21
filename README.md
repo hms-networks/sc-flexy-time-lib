@@ -17,7 +17,7 @@ A library with utilities for managing the time and related elements of Ewon Flex
 
 ## [Developer Documentation](#table-of-contents)
 
-Developer documentation is available in Javadoc format at [https://hms-networks.github.io/sc-flexy-time-lib/index.html](https://hms-networks.github.io/sc-flexy-time-lib/index.html).
+Developer documentation is available in Javadoc format found in the release package [https://github.com/hms-networks/sc-flexy-time-lib/releases](https://github.com/hms-networks/sc-flexy-time-lib/releases).
 
 ## [Dependencies](#table-of-contents)
 1. [sc-flexy-file-util-lib](https://github.com/hms-networks/sc-flexy-file-util-lib)
